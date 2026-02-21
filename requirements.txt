@@ -1,0 +1,30 @@
+
+# API Framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.18
+
+# Audio Processing & STT
+whisperx==3.1.6
+faster-whisper==0.10.1
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# OpenAI API
+# openai==1.59.0
+
+# PDF Generation
+reportlab==4.2.5
+
+# Charts
+matplotlib==3.9.3
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Audio metadata
+pydub==0.25.1
+
+# Data handling
+pydantic==2.10.4
+pydantic-settings==2.7.0
